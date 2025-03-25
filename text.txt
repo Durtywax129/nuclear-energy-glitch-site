@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nuclear Energy Glitch</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Nuclear Energy Glitch</h1>
+        <p>Welcome to the official website for Nuclear Energy Glitch, a decentralized community-powered project built on Solana.</p>
+    </header>
+    <section id="coins">
+        <div>
+            <img src="coin1.png" alt="Coin 1" />
+            <h3>Coin 1</h3>
+        </div>
+        <div>
+            <img src="coin2.png" alt="Coin 2" />
+            <h3>Coin 2</h3>
+        </div>
+        <div>
+            <img src="coin3.png" alt="Coin 3" />
+            <h3>Coin 3</h3>
+        </div>
+    </section>
+    <footer>
+        <p>Powered by Nuclear Energy Glitch</p>
+    </footer>
+</body>
+</html>
