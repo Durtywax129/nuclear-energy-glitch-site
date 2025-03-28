@@ -1,42 +1,17 @@
-# Nuclear Energy Glitch
+# NUKE.FUN Hybrid Payment Portal
 
-Welcome to the official website for **Nuclear Energy Glitch**, a decentralized community-powered project built on Solana.
+This is the official automated trading portal for **NUKE.FUN** — allowing users to buy Nuke Credits and instantly claim crypto rewards (SOL, BTC, ETH, PLAT, NUKE, F47) directly.
 
-This site is hosted using **Firebase Hosting** and automatically deployed from GitHub using CI/CD workflows.
+## Features
+- PayPal Business integration (credit/debit payments)
+- Automated credit system
+- Instant claim for tokens
+- Solana wallet connection
+- Fully automated using Firebase Functions
+- Low fees, trader-friendly
 
----
+## Live Site
+Coming soon: **https://nuke.fun**
 
-## Live Website
-
-Visit the site here:  
-**[https://nuclearenergyglitch.web.app](https://nuclearenergyglitch.web.app)**
-
----
-
-## Project Structure
-
-/
-├── index.html
-├── firebase.json
-├── .firebaserc
-└── .github/workflows/
-└── firebase-hosting-auto-deploy.yml
-
----
-
-## Deployment
-
-This project auto-deploys to Firebase Hosting when changes are pushed to `main`.
-
----
-
-## Author
-
-**Durtywax129**  
-Built with purpose and passion.
-
----
-
-## License
-
-This project is open source under the [MIT License](LICENSE).
+## Legal Notice
+Nuke Credits are digital reward points. They can be redeemed for community tokens. This portal is not a financial service or exchange.
